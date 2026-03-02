@@ -26,7 +26,7 @@ skill install sina-stock
 或者手动安装：
 ```bash
 # 克隆此仓库
-git clone https://github.com/YOUR_USERNAME/sina-stock.git
+git clone https://github.com/Sunnyfo/sina-stock.git
 
 # 复制到 LobsterAI SKILLs 目录
 cp -r sina-stock $SKILLS_ROOT/
@@ -149,10 +149,10 @@ MIT License
 
 ## 🔗 相关链接
 
+- [作者 GitHub](https://github.com/Sunnyfo)
 - [LobsterAI](https://lobsterai.com/)
 - [ClawHub](https://clawhub.ai/)
 - [新浪财经](https://finance.sina.com.cn/)
-- [LobsterAI Skills](https://github.com/LobsterAI/skills)
 
 ## 📧 联系方式
 

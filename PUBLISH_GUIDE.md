@@ -45,8 +45,8 @@ sina-stock/
 ```bash
 cd C:/Users/86183/lobsterai/project/sina-stock
 
-# 添加远程仓库（替换为你的 GitHub 用户名）
-git remote add origin https://github.com/YOUR_USERNAME/sina-stock.git
+# 添加远程仓库（你的 GitHub 用户名：Sunnyfo）
+git remote add origin https://github.com/Sunnyfo/sina-stock.git
 
 # 验证远程仓库
 git remote -v
@@ -78,7 +78,7 @@ git push -u origin main
 3. 填写发布信息：
    - **Name**: `sina-stock`
    - **Description**: `获取 A 股实时股票行情数据，无需 API Key`
-   - **GitHub Repository**: `https://github.com/YOUR_USERNAME/sina-stock`
+   - **GitHub Repository**: `https://github.com/Sunnyfo/sina-stock`
    - **Version**: `1.0.0`
    - **Category**: `Finance`
    - **Tags**: `stock, finance, A 股，行情，股票`
@@ -225,5 +225,5 @@ A: 在 ClawHub 后台管理或联系支持。
 祝你发布顺利！🎉
 
 如有问题，请查看：
-- GitHub Issues: https://github.com/YOUR_USERNAME/sina-stock/issues
+- GitHub Issues: https://github.com/Sunnyfo/sina-stock/issues
 - ClawHub 文档：https://clawhub.ai/docs
