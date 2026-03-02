@@ -6,7 +6,7 @@
 name: sina-stock
 version: 1.0.0
 description: 获取 A 股实时股票行情数据（上证指数、深证成指、创业板指等），使用新浪财经 API。无需 API Key。
-author: YourName
+author: Sunnyfo
 license: MIT
 
 # 分类
