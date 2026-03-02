@@ -1,0 +1,15 @@
+{
+  "name": "sina-stock",
+  "version": "1.0.0",
+  "description": "获取 A 股实时股票行情数据（上证指数、深证成指、创业板指等），使用新浪财经 API",
+  "author": "User",
+  "license": "MIT",
+  "keywords": ["stock", "finance", "A 股", "行情", "新浪"],
+  "requires": {
+    "bins": ["python3"],
+    "env": []
+  },
+  "scripts": {
+    "get_stock": "scripts/get_stock.py"
+  }
+}
